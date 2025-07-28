@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+          <defs>
+            <clipPath id="delivery-path">
+              <path fill="#bebebe" d="M0 0h24v24H0z"></path>
+            </clipPath>
+          </defs>
+          <g clip-path="url(#delivery-path)">
+            <g fill="none">
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 16.99V8.959a.97.97 0 0 1 .971-.97h4.054A.976.976 0 0 1 9 8.967v2.221a2.733 2.733 0 0 0 2.732 2.733h.468a2.733 2.733 0 0 0 2.732-2.733v-6.3a.925.925 0 0 0-.923-.929h-2.017" data-name="パス 40134"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.968" d="M14.934 5.964h4.158a.9.9 0 0 1 .9.9v2.19a.905.905 0 0 1-.9.905h-4.158"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m18.203 10.399 2.502 5.898"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 17.523a2.517 2.517 0 1 1-.084-.647 2.519 2.519 0 0 1 .084.647Z"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.967 17.523a2.517 2.517 0 1 1-.084-.647 2.519 2.519 0 0 1 .084.647Z"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.967 17.965h6.994"></path>
+              <path stroke="#b79866" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.506 11.988h5.462"></path>
+              <path d="M2 2.959h20v18.083H2z"></path>
+            </g>
+          </g>
+        </svg>
